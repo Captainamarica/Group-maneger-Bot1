@@ -1,16 +1,16 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
-
+<h1 align=center>ㄹ ㅇ𝙰𝚖𝚒ㅇ ㄹ ROBET 🇱🇰</h1>
+<img src = "https://telegra.ph/file/86b95880cb911d1f2eef0.jpg">
+CREATED BY ❂​ꪀꪖ​ꪜꪖ​ꪀ𝓳ꪖ​ꪀꪖ 𝘴ꪖ𝓽​ꫝ𝘴𝓲​ꪀ​ᦔꪊ༒™Ꭰᥲʀκ͢☢Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ]™
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/Group-maneger-Bot1)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m ㄹ ㅇ𝙰𝚖𝚒ㅇ ㄹ`
 
 
 ### Configuration
